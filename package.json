@@ -31,7 +31,7 @@
   "type": "module",
   "dependencies": {
     "marked": "^11.1.0",
-    "marked-terminal": "^6.2.0"
+    "marked-terminal": "jescalan/marked-terminal"
   },
   "devDependencies": {
     "@types/dedent": "^0.7.2",
